@@ -1,6 +1,0 @@
-{
-  "name": "Voice Bubble Settings",
-  "description": "Configure transcription and cleanup AI settings for Voice Bubble.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
