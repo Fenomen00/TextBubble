@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Voice Bubble Settings</string>
+    <string name="accessibility_service_description">Detects when a text field is focused to display the floating microphone bubble for speech dictation, and pastes transcribed text.</string>
+</resources>
